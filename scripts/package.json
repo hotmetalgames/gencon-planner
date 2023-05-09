@@ -1,0 +1,21 @@
+{
+  "name": "gencon",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "David Neal (https://reverentgeek.com)",
+  "license": "MIT",
+  "bin": {
+    "index": "./src/index.js"
+  },
+  "dependencies": {
+    "chalk": "^5.2.0",
+    "csv-parse": "^5.3.10",
+    "yargs": "^17.7.2"
+  },
+  "type": "module"
+}
