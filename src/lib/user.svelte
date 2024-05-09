@@ -74,6 +74,8 @@
 		bind:value={search}
 		on:blur={handleSearchBlur}
 	/>
+	<a href="/calendar">Calendar</a>
+	<a href="/">List</a>
 </div>
 
 <style>
